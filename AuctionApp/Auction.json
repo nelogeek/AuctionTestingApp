@@ -1,0 +1,215 @@
+{
+  "Number": "2220003",
+  "CompetitionOrgan": "ФАС",
+  "DeadLine": "2022-10-20T00:00:00",
+  "FactDate": "2022-10-12T00:00:00",
+  "Address": "180178, Липецкая область, город Егорьевск, пр. Ладыгина, 37",
+  "AuctionType": "Закрытый",
+  "AuctionStatusStr": "Состоялся",
+  "LastDateChanged": "2022-10-11T00:00:00",
+  "PublicationDate": "2022-10-01T00:00:00",
+  "Lots": [
+    {
+      "ShortName": "Первый",
+      "Placement": "Север",
+      "Area": 1000.34,
+      "UseagePeriod": 5,
+      "FullName": "Первый",
+      "Comment": "Это первый лот",
+      "Deposit": 2000540.34,
+      "CompanyWinner": "Vestibulum tortor",
+      "TotalPrice": 30000000.0,
+      "AuctionResults": "Продан",
+      "LotNum": "1",
+      "Resource": "Oil",
+      "Currency": "USD",
+      "Payment": 30000000.0,
+      "StartPrice": 600000.0,
+      "Companies": [
+        {
+          "RegNum": "015",
+          "Inn": "7112574114",
+          "Kpp": "130721081",
+          "Ogrn": "4041343167301",
+          "Location": "Bibendum magna et",
+          "Phone": "+74138801682",
+          "CompanyName": "Hendrerit"
+        },
+        {
+          "RegNum": "042",
+          "Inn": "9649164579",
+          "Kpp": "252531116",
+          "Ogrn": "4780971687023",
+          "Location": "Sagittis nibh leo",
+          "Phone": "+73826330430",
+          "CompanyName": "Luctus magna"
+        },
+        {
+          "RegNum": "081",
+          "Inn": "9589407024",
+          "Kpp": "458743030",
+          "Ogrn": "4387077855218",
+          "Location": "Interdum augue gravida",
+          "Phone": "+79002310754",
+          "CompanyName": "Habitasse commodo"
+        },
+        {
+          "RegNum": "098",
+          "Inn": "4119122632",
+          "Kpp": "409757836",
+          "Ogrn": "3752001080189",
+          "Location": "Tellus dolor scelerisque",
+          "Phone": "+75872540077",
+          "CompanyName": "Dapibus ac"
+        },
+        {
+          "RegNum": "086",
+          "Inn": "2871781003",
+          "Kpp": "773336364",
+          "Ogrn": "8007076524441",
+          "Location": "Dolor class ligula",
+          "Phone": "+75096892256",
+          "CompanyName": "Vestibulum tortor"
+        }
+      ]
+    },
+    {
+      "ShortName": "Второй",
+      "Placement": "Юг",
+      "Area": 400.34,
+      "UseagePeriod": 2,
+      "FullName": "Второй",
+      "Comment": "Это второй лот",
+      "Deposit": 40540.34,
+      "CompanyWinner": "Platea",
+      "TotalPrice": 20000000.0,
+      "AuctionResults": "Продан",
+      "LotNum": "2",
+      "Resource": "Gas",
+      "Currency": "EUR",
+      "Payment": 20000000.0,
+      "StartPrice": 640000.0,
+      "Companies": [
+        {
+          "RegNum": "050",
+          "Inn": "7605802901",
+          "Kpp": "729549395",
+          "Ogrn": "9357428684203",
+          "Location": "Inceptos sagittis laoreet",
+          "Phone": "+77555581045",
+          "CompanyName": "Erat phasellus"
+        },
+        {
+          "RegNum": "083",
+          "Inn": "3708898737",
+          "Kpp": "459819852",
+          "Ogrn": "3886258968876",
+          "Location": "Scelerisque fermentum porttitor",
+          "Phone": "+77525276874",
+          "CompanyName": "Platea"
+        },
+        {
+          "RegNum": "027",
+          "Inn": "3634819633",
+          "Kpp": "284521360",
+          "Ogrn": "6927872289552",
+          "Location": "Congue tempor ac",
+          "Phone": "+72181823464",
+          "CompanyName": "Condimentum"
+        },
+        {
+          "RegNum": "046",
+          "Inn": "2036378196",
+          "Kpp": "710415845",
+          "Ogrn": "9647533719014",
+          "Location": "Metus felis nec",
+          "Phone": "+79221174208",
+          "CompanyName": "Rutrum"
+        },
+        {
+          "RegNum": "081",
+          "Inn": "9589407024",
+          "Kpp": "458743030",
+          "Ogrn": "4387077855218",
+          "Location": "Interdum augue gravida",
+          "Phone": "+79002310754",
+          "CompanyName": "Habitasse commodo"
+        }
+      ]
+    },
+    {
+      "ShortName": "Второй",
+      "Placement": "Запад",
+      "Area": 400000.34,
+      "UseagePeriod": 100,
+      "FullName": "Третий",
+      "Comment": "Это третий лот",
+      "Deposit": 40540.34,
+      "CompanyWinner": "Luctus magna",
+      "TotalPrice": 230000000.0,
+      "AuctionResults": "Продан",
+      "LotNum": "3",
+      "Resource": "Other",
+      "Currency": "EUR",
+      "Payment": 200000.0,
+      "StartPrice": 8940000.0,
+      "Companies": [
+        {
+          "RegNum": "086",
+          "Inn": "2871781003",
+          "Kpp": "773336364",
+          "Ogrn": "8007076524441",
+          "Location": "Dolor class ligula",
+          "Phone": "+75096892256",
+          "CompanyName": "Vestibulum tortor"
+        },
+        {
+          "RegNum": "042",
+          "Inn": "9649164579",
+          "Kpp": "252531116",
+          "Ogrn": "4780971687023",
+          "Location": "Sagittis nibh leo",
+          "Phone": "+73826330430",
+          "CompanyName": "Luctus magna"
+        },
+        {
+          "RegNum": "083",
+          "Inn": "3708898737",
+          "Kpp": "459819852",
+          "Ogrn": "3886258968876",
+          "Location": "Scelerisque fermentum porttitor",
+          "Phone": "+77525276874",
+          "CompanyName": "Platea"
+        },
+        {
+          "RegNum": "034",
+          "Inn": "9046786685",
+          "Kpp": "104139572",
+          "Ogrn": "2747454051055",
+          "Location": "Ad ipsum fringilla",
+          "Phone": "+71116714402",
+          "CompanyName": "Tellus"
+        },
+        {
+          "RegNum": "098",
+          "Inn": "4119122632",
+          "Kpp": "409757836",
+          "Ogrn": "3752001080189",
+          "Location": "Tellus dolor scelerisque",
+          "Phone": "+75872540077",
+          "CompanyName": "Dapibus ac"
+        },
+        {
+          "RegNum": "045",
+          "Inn": "9021416422",
+          "Kpp": "497044904",
+          "Ogrn": "5128574285703",
+          "Location": "536392, Свердловская область, город Павловский Посад, спуск Ленина, 42",
+          "Phone": "7(405)544-03-49",
+          "CompanyName": "Новая компания",
+          "Ownership": "ПАО"
+        }
+      ]
+    }
+  ]
+}

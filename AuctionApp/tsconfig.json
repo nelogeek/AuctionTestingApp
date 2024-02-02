@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "outDir": "./build/",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "module": "es6",
+    "lib": [
+      "dom",
+      "es5",
+      "es2015"
+    ],
+    "target": "es5",
+    "jsx": "react",
+    "allowJs": true,
+    "moduleResolution": "node",
+    "skipLibCheck": true
+  },
+  "include": [
+    "ClientApp/**/*"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
